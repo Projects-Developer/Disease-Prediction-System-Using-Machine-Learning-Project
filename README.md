@@ -1,4 +1,4 @@
-# Disease-Prediction-System-Using-Machine-Learning-Project
+# Disease Prediction System Using Machine Learning Project
 Disease Prediction System Using Machine Learning Project Code, Document And Video Tutorial
 
 ![Dissease Prediction](https://github.com/user-attachments/assets/54b0bb4b-e678-4b41-a38b-b01a555538a7)
