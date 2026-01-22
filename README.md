@@ -19,7 +19,6 @@ Disease Prediction, Machine Learning, Healthcare, Patient Care, Medical Diagnosi
 
 3. Research Paper
 
-
 4. Code
 
 5. Explanation video
@@ -27,7 +26,6 @@ Disease Prediction, Machine Learning, Healthcare, Patient Care, Medical Diagnosi
 6. Documents
 
 7. Report
-
 
 ### Need Code, Documents & Explanation video ? 
 
@@ -39,8 +37,6 @@ Disease Prediction, Machine Learning, Healthcare, Patient Care, Medical Diagnosi
 
 ### Website : https://www.finalproject.in/
 
-### Contact me for any kind of help on projects.
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
+### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
 
 Mail/Message me for Projects Help 🙏🏻
